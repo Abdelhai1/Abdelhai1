@@ -3,22 +3,23 @@
   
   # Hi there, I'm Abdelhai! 👋
 
-  ## About Me
+## About Me
 
-  🎓 Third-year Computer Science student at ESTIN<br>
-  👨‍💻 Software Developer | Full Stack Mobile Applications Developer<br>
-  🌱 Currently expanding my skills in mobile development and full-stack technologies<br>
-  💬 Ask me about: 
-    - Kotlin 👨‍💻
-    - Java ☕
-    - XML 📝
-    - Flutter 🦋
-    - Node.js 🚀
-    - Django 🐍
-    - MySQL 🐬
-    - MongoDB 🍃
-    - SQLite 🗃️
-    - REST API 🌐
+🎓 Third-year Computer Science student at ESTIN<br>
+👨‍💻 Software Developer | Full Stack Mobile Applications Developer<br>
+🌱 Currently expanding my skills in mobile development and full-stack technologies<br>
+💬 Ask me about: <br>
+ Kotlin 👨‍💻<br>
+ Java ☕<br>
+ XML 📝<br>
+ Flutter 🦋<br>
+ Node.js 🚀<br>
+ Django 🐍<br>
+ MySQL 🐬<br>
+ MongoDB 🍃<br>
+ SQLite 🗃️<br>
+ REST API �<br>
+
     
   ## 💼 Skills
 
@@ -34,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
