@@ -1,6 +1,6 @@
-hai# Hi there, I'm Abdelhai! 👋
+# Hi there, I'm Abdelhai! 👋
 
-## ℹ️ About Me
+## About Me
 
 - 🎓 Third-year Computer Science student at ESTIN
 - 👨‍💻 Software Developer | Full Stack Mobile Applications Developer
