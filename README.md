@@ -14,6 +14,10 @@
     - XML 📝
     - Flutter 🦋
     - Node.js 🚀
+    - Django 🐍
+    - MySQL 🐬
+    - MongoDB 🍃
+    - SQLite 🗃️
     - REST API 🌐
     
   ## 💼 Skills
