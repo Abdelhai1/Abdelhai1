@@ -1,16 +1,53 @@
-### Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**Abdelhai1/Abdelhai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ℹ️ About Me
 
-Here are some ideas to get you started:
+- 🎓 Third-year Computer Science student at ESTIN
+- 👨‍💻 Software Developer | Full Stack Mobile Applications Developer
+- 🌱 Currently expanding my skills in mobile development and full-stack technologies
+- 💬 Ask me about: 
+  - Kotlin 👨‍💻
+  - Java ☕
+  - XML 📝
+  - Flutter 🦋
+  - Node.js 🚀
+  - REST API 🌐
+  - Django 🐍
+  - Python 🐍
+  - C 🧱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💼 Skills
+
+### Languages and Tools
+
+- Java ☕
+- Android 📱
+- Android Studio 🚀
+- Kotlin 👨‍💻
+- IntelliJ IDEA 💡
+- Firebase 🔥
+- SQLite 🗃️
+- MySQL 🐬
+- MongoDB 🍃
+- Node.js 🚀
+- Django 🐍
+- Postman 📬
+- REST API 🌐
+- Flutter 🦋
+- Machine Learning 🤖
+- Kaggle 📊
+- Figma 🎨
+- GitHub 🐱‍💻
+- C 🧱
+- HTML 🌐
+- VS Code 💻
+- Linux 🐧
+
+
+## 📫 Connect with Me
+
+- Email: m_guir@estin.dz 📧
+
+
+
