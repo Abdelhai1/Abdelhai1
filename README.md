@@ -18,7 +18,7 @@
  MySQL 🐬<br>
  MongoDB 🍃<br>
  SQLite 🗃️<br>
- REST API �<br>
+ API �<br>
 
     
   ## 💼 Skills
