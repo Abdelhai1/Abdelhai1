@@ -43,14 +43,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meriem453&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-    
     
 
   ## 📫 Connect with Me
