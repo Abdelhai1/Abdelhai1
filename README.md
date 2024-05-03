@@ -43,11 +43,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 
-  ## :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdelhai1&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
-<br>
-<img align="center" alt="Abdelhai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdelhai1&show_icons=true&hide_border=true&title_color=0ed145&icon_color=0ed145&bg_color=222428&text_color=ffffff&border_color=0ed145" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meriem453&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
